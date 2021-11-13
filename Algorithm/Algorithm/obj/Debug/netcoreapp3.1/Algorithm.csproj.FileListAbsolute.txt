@@ -1,0 +1,13 @@
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.exe
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.deps.json
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.json
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.runtimeconfig.dev.json
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfoInputs.cache
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.AssemblyInfo.cs
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.dll
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.pdb
+C:\Users\aiman\source\repos\rvip-algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp3.1\Algorithm.genruntimeconfig.cache
